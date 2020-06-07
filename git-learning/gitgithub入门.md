@@ -169,7 +169,7 @@ $ git push -u origin gh-pages
 
 
 
-+ 顺便提一下, 此刻学到的只是点
++ 顺便提一下, 此刻学到的知识点
 
   # git push origin 与git push -u origin master的区别
 
